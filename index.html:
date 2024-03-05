@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Professional Property Advisor</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Professional Property Advisor</h1>
+</header>
+
+<nav>
+    <a href="#investment">Property Investment Strategy</a>
+    <a href="#investigation">Property Development Investigation</a>
+    <a href="#management">Property Development Management</a>
+</nav>
+
+<section id="investment">
+    <h2>Property Investment Strategy</h2>
+    <p>Our property investment strategy services help clients maximize returns and minimize risks in real estate investments. We offer tailored strategies based on thorough market analysis and risk assessment.</p>
+</section>
+
+<section id="investigation">
+    <h2>Property Development Investigation</h2>
+    <p>Our property development investigation services involve in-depth analysis of potential development opportunities. We assess feasibility, market demand, regulatory requirements, and financial viability to ensure successful outcomes.</p>
+</section>
+
+<section id="management">
+    <h2>Property Development Management</h2>
+    <p>We provide comprehensive property development management services, overseeing all aspects of the development process from planning and design to construction and marketing. Our goal is to deliver projects on time, within budget, and to the highest quality standards.</p>
+</section>
+
+<footer>
+    <p>Contact us for professional property advisory services tailored to your needs.</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
